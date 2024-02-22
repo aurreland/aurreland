@@ -1,6 +1,6 @@
 ### Hi there 👋
 # NixOS
-{My Config}{https://github.com/aurreland/nix-config}
+[My Config](https://github.com/aurreland/nix-config)
 <!--
 **aurreland/aurreland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
